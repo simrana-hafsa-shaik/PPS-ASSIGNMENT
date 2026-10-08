@@ -16,13 +16,3 @@ int main() {
     return 0;
 }
 
-
-Input (stdin)
-3
-4
-6
-5
-Your Output (stdout)
-6
-Expected Output
-6
